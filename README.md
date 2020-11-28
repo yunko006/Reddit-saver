@@ -30,8 +30,8 @@ Issue : Sometimes some posts won't be able to be saved, you'll have a url in you
 
 Know Issues :
  
-- If you run the script a multiple time, if you have saved some comments they will be appended multiple times. 
-So the best use is to save all your post the first time and then change the "n" in line 13 to only save new posts. 
+- If you run the script multiple times, if you have saved some comments they will be appended multiple times. 
+So the best use is to save all your post the first time you use it and then change the "n" in line 13 to only save new posts. 
 
 Features that will be added : 
 
