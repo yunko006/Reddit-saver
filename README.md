@@ -27,3 +27,12 @@ You'll need to create an app from reddit :
 Issue : Sometimes some posts won't be able to be saved, you'll have a url in your command prompt to see each posts.
 
 - Go to your path and check your folder
+
+Know Issues :
+ 
+- If you run the script a multiple time, if you have saved some comments they will be appended multiple times. 
+So the best use is to save all your post the first time and then change the "n" in line 13 to only save new posts. 
+
+Features that will be added : 
+
+- Only pull new items
