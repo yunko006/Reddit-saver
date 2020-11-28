@@ -2,8 +2,8 @@
 Script to download Reddit saved posts
 
 Features : 
-Download reddit saved posts
-Create folder named with the subreddit and .txt files named with the title of the post
+- Download reddit saved posts
+- Create folder named with the subreddit and .txt files named with the title of the post
 
 
 How to use :
