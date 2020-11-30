@@ -6,7 +6,7 @@ Features :
 - Create folder named with the subreddit and .txt files named with the title of the post
 
 
-How to use :
+# How to use :
 - Download or clone the repo
 - Install python3 and run pip install -r requirements.txt or pip3 install -r requirements.txt
 
